@@ -5,3 +5,5 @@
 **允许转载，禁止二配**
 
 **感谢：表EU与里EU**
+
+**更新/下载https://github.com/hatsumo01/pda-zh/releases**
