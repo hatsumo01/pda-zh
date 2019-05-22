@@ -7,3 +7,5 @@
 **感谢：表EU与里EU**
 
 **更新/下载https://github.com/hatsumo01/pda-zh/releases**
+
+## 录制视频请标明补丁作者：废宅はつも
